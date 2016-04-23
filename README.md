@@ -1,4 +1,6 @@
-# Pandas_ScikitLearn
+Introduction to Jupyter notebook, Pandas and Scikit-Learn
+---------------------------------------------------------
+
 
 
 ## `Presentation.ipynb` is the jupyter notebook for this presentation
